@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Moses Stephen Arulraj S
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;From+Tamil+Nadu%2C+India;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Front+End+Developer;MERN+Stack+Specialist;From+Tamil+Nadu%2C+India;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 **Front End Developer** | **MERN Stack Specialist** | **Tamil Nadu, India** 🇮🇳
 
