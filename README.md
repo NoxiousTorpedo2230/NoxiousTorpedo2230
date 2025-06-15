@@ -115,24 +115,6 @@ const developer = {
 
 ---
 
-## 💡 Featured Projects
-
-### 🛍️ **E-Commerce Platform**
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas  
-**Features:** User authentication, payment integration, inventory management  
-**Status:** 🔥 Active Development
-
-### 📝 **Task Management System**
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap  
-**Features:** CRUD operations, responsive design, local storage  
-**Status:** ✅ Completed
-
-### 🍕 **Restaurant Management Portal**
-**Tech Stack:** React.js, Express.js, MongoDB  
-**Features:** Order management, menu customization, analytics dashboard  
-**Status:** ⚡ In Progress
-
----
 
 <div align="center">
 
