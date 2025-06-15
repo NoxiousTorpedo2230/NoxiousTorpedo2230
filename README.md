@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer specializing in the MERN stack, dedicated to creating scalable and efficient web applications. With a strong foundation in modern JavaScript technologies and a keen eye for user experience, I transform complex ideas into elegant digital solutions.
+I'm a passionate Front End Developer specializing in the MERN stack, dedicated to creating scalable and efficient web applications. With a strong foundation in modern JavaScript technologies and a keen eye for user experience, I transform complex ideas into elegant digital solutions.
 
 ```javascript
 const developer = {
     name: "Moses Stephen Arulraj S",
     location: "Tamil Nadu, India",
-    role: "Full Stack Developer",
+    role: "Front End Developer",
     specialization: "MERN Stack",
     currentFocus: "Building scalable web applications",
     learning: "Advanced backend architecture & cloud deployment",
